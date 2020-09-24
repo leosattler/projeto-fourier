@@ -5,10 +5,10 @@
 *Instituto Nacional de Pesquisas Espaciais*  
 ____________________________________________________________
 
-Análise dos dados de atividade solar (índice F10.7), de 1963 a 2020, utilizando a rotina numpy.fft.
-Esse projeto é parte do cuso CAP-384, apresentado à professora Margarete Oliveira Domingues.
+Análise dos dados de atividade solar (índice F10.7), de 1963 a 2020, utilizando a rotina `numpy.fft`.
+Esse projeto é parte do cuso CAP-384, e foi apresentado à professora Margarete Oliveira Domingues.
 
-Você deve ter recebido uma cópia da GNU General Public License junto com este programa. Caso contrário, visite <http://www.gnu.org/licenses/>.
+Você deve ter recebido uma cópia da GNU General Public License junto com este arquivo. Caso contrário, visite <http://www.gnu.org/licenses/>.
 ____________________________________________________________
 
 #### Fonte:  
