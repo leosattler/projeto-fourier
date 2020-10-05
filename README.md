@@ -16,7 +16,7 @@ ____________________________________________________________
 ____________________________________________________________
 
 #### Instruções:  
-Todos os scripts podem ser compilados e executados diretamente em seus respectivos locais de download. Os dados disponibilizados foram obtidos em <https://omniweb.gsfc.nasa.gov/form/dx1.html>.
+Todos os scripts podem ser compilados e executados diretamente em seus respectivos locais de download. Os dados disponibilizados foram obtidos em <https://omniweb.gsfc.nasa.gov/form/dx1.html>. 
 ____________________________________________________________
 
 #### Versão:  
